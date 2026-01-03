@@ -1,4 +1,4 @@
-# CORE VERTICAL — AI & Simulation
+# 🤖 CORE VERTICAL — AI & Simulation
 
 This repository defines the AI & Simulation vertical for CORE.
 
